@@ -8,13 +8,14 @@ A list I will add to as I think of more books to recommend, but here's a good be
 - [Reentry](#reentry)
 - [Space Race](#space-race)
 - [Astronauts](#astronauts)
+- [Missions](#missions)
 - [Astronomy and Astrophysics](#astronomy-and-astrophysics)
 - [General Science and Physics](#general-science-and-physics)
 - [Space Porn](#space-porn)
 
 ### Rocketry
 
-* Ignition! An Informal History of Liquid Rocket Propellants (John D. Clark) - my hands-down absolute FAVORITE book on liquid rocket propellants ever. It's an incredibly smart, informative, and HILARIOUS read. Stands the test of time. It's permanently on my Kindle. Update: They're rereleasing it in print! You can preorder it now (though I'm not sure when it'll be released). In the meantime, grab the PDF. [PDF](https://library.sciencemadness.org/library/books/ignition.pdf) [Amazon](https://www.amazon.com/gp/product/0813595835/)
+* Ignition! An Informal History of Liquid Rocket Propellants (John D. Clark) - my hands-down absolute FAVORITE book on liquid rocket propellants ever. It's an incredibly smart, informative, and HILARIOUS read. Stands the test of time. It's permanently on my Kindle. Update: Now rereleased in print! [PDF](https://library.sciencemadness.org/library/books/ignition.pdf) [Amazon](https://www.amazon.com/gp/product/0813595835/)
 * Modern Engineering for Design of Liquid Propellant Rocket Engines (Progress in Astronautics and Aeronautics) (Dieter K. Huzel, David H. Huang) - A textbook, so find a PDF or used copy (for sure), but an EXCELLENT textbook. If you look up "Design of...", you'll find the authors' original documentation from 1967 for NASA, which is freely available as a PDF. [WorldCat](https://www.worldcat.org/title/modern-engineering-for-design-of-liquid-propellant-rocket-engines-volume-147/oclc/669758825) [Amazon](https://www.amazon.com/Engineering-Propellant-Progress-Astronautics-Aeronautics/dp/1563470136) 
 * Rocket Propulsion Elements, 7th Ed. (G.P. Sutton, O. Biblarz) - Another great resource. [PDF](http://www.ewp.rpi.edu/hartford/~ernesto/S2013/EP/MaterialsforStudents/Lee/Sutton-Biblarz-Rocket_Propulsion_Elements.pdf)
 * Mechanics and Thermodynamics of Propulsion (P. Hill, C. Peterson) - And yet another good academic source. [PDF](https://www.academia.edu/32128473/Hill_Peterson_1992_Mechanics_and_thermodynamics_of_propulsion.pdf)
@@ -63,6 +64,12 @@ A list I will add to as I think of more books to recommend, but here's a good be
 * Into the Black: The Extraordinary Untold Story of the First Flight of the Space Shuttle Columbia and the Astronauts Who Flew Her (Rowland White) - An excellent history of the shuttle program. [WorldCat](https://www.worldcat.org/title/into-the-black-the-extraordinary-untold-story-of-the-first-flight-of-the-space-shuttle-columbia-and-the-astronauts-who-flew-her/oclc/913337277) [Amazon](https://www.amazon.com/Into-Black-Extraordinary-Columbia-Astronauts/dp/1501123629) [IndieBound](https://www.indiebound.org/book/9781501123634)
 * Chasing Space: An Astronaut's Story of Grit, Grace, and Second Chances (Leland Melvin) - Everyone's favorite astronaut behind the world's best astronaut photo. [WorldCat](https://www.worldcat.org/title/chasing-space-an-astronauts-story-of-grit-grace-and-second-chances/oclc/957636022) [Amazon](https://www.amazon.com/Chasing-Space-Astronauts-Second-Chances/dp/0062496727) [IndieBound](https://www.indiebound.org/book/9780062496720)
 * Riding Rockets: The Outrageous Tales of a Space Shuttle Astronaut (Mike Mullane) - Another great autobiography, very sincere and well done. His writing about Challenger wrecked me. [WorldCat](https://www.worldcat.org/title/riding-rockets-the-outrageous-tales-of-a-space-shuttle-astronaut/oclc/62118471) [Amazon](https://www.amazon.com/Riding-Rockets-Outrageous-Shuttle-Astronaut/dp/0743276833) [IndieBound](https://www.indiebound.org/book/9780743276832)
+
+### Missions
+
+* Chasing New Horizons: Inside the Epic First Mission to Pluto (Alan Stern, David Grinspoon) - The book on the New Horizons mission, detailing how it came to be, the politics of its mission (and the infighting), and the sheer engineering required for something so incredible. [WorldCat](https://www.worldcat.org/title/chasing-new-horizons-inside-the-epic-first-mission-to-pluto/oclc/1033675407) [Amazon](https://www.amazon.com/Chasing-New-Horizons-Inside-Mission/dp/1250098963) [IndieBound](https://www.indiebound.org/book/9781250098962)
+
+* The Design and Engineering of Curiosity: How the Mars Rover Performs Its Job (Emily Lakdawalla) - THE book on Curiosity, how it was built, what it does, and how it works (and why it's such a big deal). If you were curious about anything regarding Curiosity, this book has it. [WorldCat](http://www.worldcat.org/title/design-and-engineering-of-curiosity-how-the-mars-rover-performs-its-job/oclc/1030303276) [Amazon](https://www.amazon.com/Design-Engineering-Curiosity-Performs-Springer/dp/3319681443) [IndieBound](https://www.indiebound.org/book/9783319681443)
 
 ### Astronomy and Astrophysics
 
