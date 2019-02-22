@@ -17,14 +17,14 @@ A list I will add to as I think of more books to recommend, but here's a good be
 
 * Ignition! An Informal History of Liquid Rocket Propellants (John D. Clark) - my hands-down absolute FAVORITE book on liquid rocket propellants ever. It's an incredibly smart, informative, and HILARIOUS read. Stands the test of time. It's permanently on my Kindle. Update: Now rereleased in print! [PDF](https://library.sciencemadness.org/library/books/ignition.pdf) [Amazon](https://www.amazon.com/gp/product/0813595835/)
 * Modern Engineering for Design of Liquid Propellant Rocket Engines (Progress in Astronautics and Aeronautics) (Dieter K. Huzel, David H. Huang) - A textbook, so find a PDF or used copy (for sure), but an EXCELLENT textbook. If you look up "Design of...", you'll find the authors' original documentation from 1967 for NASA, which is freely available as a PDF. [WorldCat](https://www.worldcat.org/title/modern-engineering-for-design-of-liquid-propellant-rocket-engines-volume-147/oclc/669758825) [Amazon](https://www.amazon.com/Engineering-Propellant-Progress-Astronautics-Aeronautics/dp/1563470136) 
-* Rocket Propulsion Elements, 7th Ed. (G.P. Sutton, O. Biblarz) - Another great resource. [PDF](http://www.ewp.rpi.edu/hartford/~ernesto/S2013/EP/MaterialsforStudents/Lee/Sutton-Biblarz-Rocket_Propulsion_Elements.pdf)
-* Mechanics and Thermodynamics of Propulsion (P. Hill, C. Peterson) - And yet another good academic source. [PDF](https://www.academia.edu/32128473/Hill_Peterson_1992_Mechanics_and_thermodynamics_of_propulsion.pdf)
+* Rocket Propulsion Elements, 9th Ed. (G.P. Sutton, O. Biblarz) - Another great resource. It's a textbook so $$$$$. [PDF](http://www.pyrobin.com/files/Rocket%20Propulsion%20Elements.pdf)
+* Mechanics and Thermodynamics of Propulsion, 2nd Ed. (P. Hill, C. Peterson) - And yet another good academic source. [PDF](https://www.academia.edu/32128473/Hill_Peterson_1992_Mechanics_and_thermodynamics_of_propulsion.pdf)
 * Fundamentals of Electric Propulsion - Ion and Hall Thrusters (Dan Goebel, Ira Katz) - Propulsion, but electric! [PDF](http://descanso.jpl.nasa.gov/SciTechBook/series1/Goebel__cmprsd_opt.pdf)
 
 ### Dynamics
 
 * Fundamentals of Astrodynamics (Roger Bate, Donald Mueller) - Excellent introductory text to orbital mechanics. [WorldCat](https://www.worldcat.org/title/fundamentals-of-astrodynamics-and-applications/oclc/47031083) [Amazon](https://www.amazon.com/Fundamentals-Astrodynamics-Dover-Aeronautical-Engineering/dp/0486600610) [IndieBound](https://www.indiebound.org/book/9780486600611)
-* Orbital Mechanics for Engineering Students (Howard Curtis) - Another really good textbook. [PDF](https://edisciplinas.usp.br/pluginfile.php/66104/mod_resource/content/1/OrbitalMechanicsForEngineeringStudents-AerospaceEngineering.pdf)
+* Orbital Mechanics for Engineering Students, 3rd Ed. (Howard Curtis) - Another really good textbook. [PDF](https://www.academia.edu/8612052/ORBITAL_MECHANICS_FOR_ENGINEERING_STUDENTS)
 * Spacecraft Thermal Control Handbook: Vol.1 Fundamental Technologies (David Gilmore) - [Amazon](https://www.amazon.com/Spacecraft-Thermal-Control-Handbook-Technologies/dp/188498911X) [WorldCat](https://www.worldcat.org/title/spacecraft-thermal-control-handbook-vol-1-fundamental-technologies/oclc/254064653)
 
 ### Communications 
@@ -68,8 +68,8 @@ A list I will add to as I think of more books to recommend, but here's a good be
 ### Missions
 
 * Chasing New Horizons: Inside the Epic First Mission to Pluto (Alan Stern, David Grinspoon) - The book on the New Horizons mission, detailing how it came to be, the politics of its mission (and the infighting), and the sheer engineering required for something so incredible. [WorldCat](https://www.worldcat.org/title/chasing-new-horizons-inside-the-epic-first-mission-to-pluto/oclc/1033675407) [Amazon](https://www.amazon.com/Chasing-New-Horizons-Inside-Mission/dp/1250098963) [IndieBound](https://www.indiebound.org/book/9781250098962)
-
 * The Design and Engineering of Curiosity: How the Mars Rover Performs Its Job (Emily Lakdawalla) - THE book on Curiosity, how it was built, what it does, and how it works (and why it's such a big deal). If you were curious about anything regarding Curiosity, this book has it. [WorldCat](http://www.worldcat.org/title/design-and-engineering-of-curiosity-how-the-mars-rover-performs-its-job/oclc/1030303276) [Amazon](https://www.amazon.com/Design-Engineering-Curiosity-Performs-Springer/dp/3319681443) [IndieBound](https://www.indiebound.org/book/9783319681443)
+* Mars Rover Curiosity: An Inside Account from Curiosity's Chief Engineer (Rob Manning, William L. Simon) - Want the chief engineer's account on the Curiosity mission? This is a really good take, and covers a lot of the internal politics and engineering challenges. If you're super into Curiosity, this is solid. [WorldCat](https://www.worldcat.org/title/mars-rover-curiosity-an-inside-account-from-curiositys-chief-engineer/oclc/892698000) [Amazon](https://www.amazon.com/Mars-Rover-Curiosity-Curiositys-Engineer/dp/1588344037/) [IndieBound](https://www.indiebound.org/book/9781588344731) 
 
 ### Astronomy and Astrophysics
 
