@@ -1,6 +1,8 @@
 # the-big-space-related-book-list
 A list I will add to as I think of more books to recommend, but here's a good beginning. FWIW, I try to only add books/papers I've read, but if you have a suggestion let me know and I'll pick it up!
 
+I have Amazon and (usually) IndieBound links for all items that can be purchased. I'd really prefer to remove the overall dependence on Amazon but I understand that's not always feasible for folks and some books are more difficult to find. That said, I'm going to make an effort to prioritize non-Amazon booksellers when at all possible. I also have WorldCat links where applicable, and would highly recommend patronizing your local library! Finally, I have linked PDFs when applicable and try to clean up those links regularly. If you see a broken link, please let me know and I'll update the list.
+
 ## Sections
 - [Rocketry](#rocketry)
 - [Dynamics](#dynamics)
